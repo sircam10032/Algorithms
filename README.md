@@ -1,2 +1,1 @@
-# Algorithms
-some implements of algorithms in "Introduction to algorithms"
+一些《算法导论》里面的感兴趣算法的实现
